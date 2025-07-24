@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 about franciss :
 🔭 I’m currently working on hosting my own website using my personal machine.<br>👯 I’m looking to collaborate on large-scale web applications.<br>🤝 I’m looking for help with understanding server management and deeper DevOps practices.<br>🌱 I’m currently learning DevOps, server management, and exploring how kernels and Linux systems work.<br>💬 Ask me about web development with Svelte and Linux — it's my go-to!<br>⚡ Fun fact: I usually dive into coding before reading the docs — it's how I learn best!
 
 
